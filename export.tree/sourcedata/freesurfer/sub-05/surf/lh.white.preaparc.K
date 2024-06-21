@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/zG/20/MD5E-s501299--e6bab6a6f4a07772e10540bcb26733f1.K/MD5E-s501299--e6bab6a6f4a07772e10540bcb26733f1.K
